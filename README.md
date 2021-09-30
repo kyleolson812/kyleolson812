@@ -19,7 +19,7 @@ I'm a Senior Computer Science student at the University of Central Florida.
   <img align="left" alt="Terminal" width="30px" src="https://i.imgur.com/2zOgXg8.png" />
   <img align="left" alt="Git" width="30px" src="https://i.imgur.com/NEr9meQ.png" />
   <img align="left" alt="React" width="30px" src="https://i.imgur.com/YgzKifA.png" />
-  <img align="left" alt="JavaScript" width="30px" src="blob:https://imgur.com/2e0ea8b6-e56e-409c-8410-11621d96615b" />
+  <img align="left" alt="JavaScript" width="30px" src="https://i.imgur.com/MTawYJo.png" />
   <img align="left" alt="HTML" width="30px" src="https://i.imgur.com/AULlWXt.png" />
   <img align="left" alt="CSS" width="30px" src="https://i.imgur.com/76SPBkf.png" />
   
