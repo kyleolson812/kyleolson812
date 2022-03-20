@@ -1,6 +1,7 @@
 ## Welcome to my profile!!!
 
 I'm a Senior Computer Science student at the University of Central Florida.
+I'm also an iOS developer at SightPlan!
 <br>
 
 ### Connect with me
