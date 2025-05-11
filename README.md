@@ -6,9 +6,9 @@ I'm a passionate and adaptable software engineer with 4 years of experience in m
 
 ## 🧰 Languages & Tools I Use
 
-- 🔵 **Swift** – My primary language for iOS apps  
-- 🟠 **Objective-C** – For legacy support and integration  
-- 🟢 **TypeScript** – Exploring cross-platform development with React Native  
+- 🟠 **Swift** – My primary language for iOS apps  
+- 🟣 **Objective-C** – For legacy support and integration  
+- 🔵 **TypeScript** – Exploring cross-platform development with React Native  
 - 🐍 **Python** – For machine learning and automation  
 - 🎮 **C#** – Unity development for game projects  
 - 🛠️ **Xcode**, **UIKit**, **SwiftUI**, **SPM**, **Git**, **Postman**, **VS Code**
