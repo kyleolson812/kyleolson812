@@ -1,33 +1,45 @@
-## Welcome to my profile!!!
+# 👋 Hi, I'm Kyle Olson
 
-I'm a graduate in Computer Science at the University of Central Florida.
-I'm also an iOS developer at SightPlan!
-<br>
+I'm a passionate and adaptable software engineer with 4 years of experience in mobile development, primarily building iOS apps using **Swift** and **Objective-C**. Beyond mobile, I'm actively expanding into **backend development**, **machine learning**, and **cybersecurity** to grow as a well-rounded and impactful engineer.
 
-### Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/kyleolson812"><img align="left" alt="LinkedIn" width="30px" src="https://imgur.com/77GRHNa.png" /></a>
-</p>
+---
 
-<br><br>
+## 🧰 Languages & Tools I Use
 
-### Languages and Tools
-<p align="left">
-  <img align="left" alt="Git" width="30px" src="https://i.imgur.com/NEr9meQ.png" />
-  <img align="left" alt="HTML" width="30px" src="https://i.imgur.com/AULlWXt.png" />
-  <img align="left" alt="CSS" width="30px" src="https://i.imgur.com/76SPBkf.png" />
-  <img align="left" alt="JavaScript" width="30px" src="https://i.imgur.com/1RQUf2i.png" />
-  <img align="left" alt="React" width="30px" src="https://i.imgur.com/YgzKifA.png" />
-  <img align="left" alt="Unity" width="30px" src="https://i.imgur.com/8kAGSCs.png" />
-  <img align="left" alt="C" width="30px" src="https://i.imgur.com/DISotB6.png" />
-  <img align="left" alt="C#" width="30px" src="https://i.imgur.com/5ObFfdG.png" />
-  <img align="left" alt="Java" width="30px" src="https://i.imgur.com/rquqDdT.png" />
-  <img align="left" alt="Linux" width="30px" src="https://i.imgur.com/ZK3cTMv.png" />
-  <img align="left" alt="Terminal" width="30px" src="https://i.imgur.com/2zOgXg8.png" />
-  
-  
+- 🔵 **Swift** – My primary language for iOS apps  
+- 🟠 **Objective-C** – For legacy support and integration  
+- 🟢 **TypeScript** – Exploring cross-platform development with React Native  
+- 🐍 **Python** – For machine learning and automation  
+- 🎮 **C#** – Unity development for game projects  
+- 🛠️ **Xcode**, **UIKit**, **SwiftUI**, **SPM**, **Git**, **Postman**, **VS Code**
 
-  
+---
 
-  
-</p>
+## 🎯 What I'm Looking For
+
+I'm currently open to roles in:
+
+- 📱 **Mobile Development** – iOS (Swift) and cross-platform with React Native  
+- 🔙 **Backend Engineering** – To build fullstack experience and understand system design  
+- 🔐 **Cybersecurity** – Areas like secure coding, network security, and vulnerability analysis  
+- 🤖 **Machine Learning** – Applying Python to real-world AI/ML use cases
+
+I thrive in collaborative environments that value growth, curiosity, and clean, scalable code.
+
+---
+
+## 🧠 My Broader Interests
+
+- 🎯 Fullstack app architecture and clean code practices  
+- 🛡️ Security-first design in mobile and backend systems  
+- 🤝 Cross-functional collaboration across design, product, and dev teams  
+- 🎮 Game development using Unity (for fun and learning!)
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kyleolson812)  
+- ✉️ Email: kyleolson812@gmail.com
+
+Let’s connect and build something awesome together!
