@@ -41,5 +41,3 @@ I thrive in collaborative environments that value growth, curiosity, and clean, 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kyleolson812)  
 - ✉️ Email: kyleolson812@gmail.com
-
-Let’s connect and build something awesome together!
